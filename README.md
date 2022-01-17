@@ -1,6 +1,6 @@
 # Thicc Menu
 A very simple, header only c++ based menu library
-
+#### Note: currently windows only, as it uses the winapi for the cursor. Linux compability will follow soon.
 ### Basic Example
 ```cpp
 #include "thiccmenu.hpp"
